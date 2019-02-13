@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/threading-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/threading-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_低卡瘦身.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_冰.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_吐司.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_咖哩.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_家常美味.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_日式.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_日式點心.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_早餐.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_果醬抹醬.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_海藻類.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_滷味.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_秋葵.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_米粉.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_素食.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_葉菜.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_蒸蛋.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_蛋糕.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_豆類.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_馬鈴薯.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_麵食.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/threading.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +28,7 @@
         <counts>
           <entry key="csv" value="3" />
           <entry key="gitignore" value="2" />
-          <entry key="ipynb" value="12" />
+          <entry key="ipynb" value="13" />
           <entry key="jpg" value="2" />
           <entry key="json" value="30" />
           <entry key="md" value="2" />
@@ -62,7 +38,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="12" />
+          <entry key="IPNB" value="13" />
           <entry key="Image" value="2" />
           <entry key="JSON" value="30" />
           <entry key="Markdown" value="2" />
@@ -211,7 +187,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -219,14 +195,14 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38313252" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.38313252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36024097" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.36024097" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.36024097" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
@@ -373,15 +349,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/recipes_crawl_failure.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/threading.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipes_crawl_failure.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
