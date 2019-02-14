@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/MongoDBPreprocessing-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/failedRecipeCrawler-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/threadingCrawler-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MongoDBPreprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MongoDBPreprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/pass" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" beforeDir="false" afterPath="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongodbConnectionDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mongodbConnectionDemo.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +48,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="89901" selection-start-column="89901" selection-end-column="89901" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +91,7 @@
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/tools/crawlers.py" />
         <option value="$PROJECT_DIR$/MongoDBPreprocessing.ipynb" />
+        <option value="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" />
       </list>
     </option>
   </component>
@@ -116,6 +120,16 @@
             </path>
             <path>
               <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="clean_recipe_json_output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -134,11 +148,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,6 +201,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,9 +311,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clean_recipe_json_output/pass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_recipe_json_output/pass" />
     <entry file="file://$PROJECT_DIR$/recipes_crawl_failure.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -324,6 +337,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="89901" selection-start-column="89901" selection-end-column="89901" />
         </state>
       </provider>
     </entry>
