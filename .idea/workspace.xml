@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" beforeDir="false" afterPath="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonTransformation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jsonTransformation.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +14,14 @@
     <session id="-1329076770">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="5" />
+          <entry key="ipynb" value="6" />
           <entry key="json" value="1" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="5" />
+          <entry key="IPNB" value="6" />
           <entry key="JSON" value="1" />
           <entry key="Python" value="4" />
         </counts>
@@ -48,17 +48,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="89901" selection-start-column="89901" selection-end-column="89901" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,6 +82,7 @@
         <option value="$PROJECT_DIR$/tools/crawlers.py" />
         <option value="$PROJECT_DIR$/MongoDBPreprocessing.ipynb" />
         <option value="$PROJECT_DIR$/clean_recipe_json_output/recipes_歐式麵包.json" />
+        <option value="$PROJECT_DIR$/jsonTransformation.ipynb" />
       </list>
     </option>
   </component>
@@ -112,30 +103,6 @@
             <path>
               <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="clean_recipe_json_output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (recipeCrawler) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -344,6 +310,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="89901" selection-start-column="89901" selection-end-column="89901" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonTransformation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
