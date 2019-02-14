@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/threading.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +12,13 @@
     <session id="-1329076770">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="2" />
+          <entry key="ipynb" value="3" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="2" />
+          <entry key="IPNB" value="3" />
           <entry key="JSON" value="1" />
         </counts>
       </usages-collector>
