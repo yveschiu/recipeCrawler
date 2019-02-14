@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/threading-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/threading-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/threading.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="44514f36-3425-47d1-bba9-451e8e06b3b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-4" />
     <option name="width" value="1924" />
     <option name="height" value="1080" />
@@ -65,6 +60,11 @@
             <path>
               <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipeCrawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipeCrawler" type="462c0819:PsiDirectoryNode" />
+              <item name="clean_recipe_json_output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,7 +131,7 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1924" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27677625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27677625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -145,7 +145,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.35940802" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.35940802" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.38313252" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Console" order="11" />
