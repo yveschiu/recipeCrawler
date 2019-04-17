@@ -3,6 +3,10 @@ from sklearn.cluster import k_means # necessary for loading the pickled model
 import pandas as pd
 import pickle
 import warnings
+import os
+
+base_dir = os.getcwd()
+
 
 warnings.filterwarnings("ignore")
 
